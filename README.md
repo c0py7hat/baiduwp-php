@@ -17,16 +17,15 @@ PanDownload 网页复刻版，PHP 语言版<br/>
 已经通知站长，请修改网站后联系我删除黑名单。
 
 ## Demo
-[前往演示地址](http://imwcr.cn/api/bdwp/)<br />
+[前往演示地址](https://down.5nb.me/)<br />
 为方便测试程序可用性，现开放demo演示。<br />
 演示服务器在 2020-09-30 19:17:55 遭到20GbpsDDoS攻击，现已恢复<br />
 每个IP每天有一次免费解析机会，解析后的下载地址会在数据库中保存8小时，在8小时内再次解析不消耗次数。<br />
-愿意捐赠SVIP账号的同学可以邮件联系yuantuo666@gmail.com，将会在首页展示捐赠者。<br />
 
 ![speed.gif](https://i.loli.net/2020/10/01/2mEqkClnPev8ORd.gif)
 
 ## Donate
-[捐赠作者](https://imwcr.cn/?donate)<br />
+[捐赠作者](https://down.5nb.me/jz.php)<br />
 建议大家自己搭建自己用，搭建公益的没必要，只有投入没有回报。
 
 ## Tips
@@ -77,7 +76,7 @@ define('Password', '666');
 ## New Changes
 - 当前版本：`1.4.3`
 - 更新日期：2020-10-2
-- 注：此版本暂未发布，目前已授权给bdwp.pro使用。
+- 注：此版本暂未发布。
 - 修改内容
   - 后台增加MySQL数据库，保存8小时内解析文件。
   - 首页增加SVIP账号状态检测，显示最近一次解析结果。
